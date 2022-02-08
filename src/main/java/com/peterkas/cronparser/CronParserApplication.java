@@ -1,5 +1,6 @@
 package com.peterkas.cronparser;
 
+import com.peterkas.cronparser.cron.CronExpression;
 import com.peterkas.cronparser.printer.CronExpressionPrinter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
